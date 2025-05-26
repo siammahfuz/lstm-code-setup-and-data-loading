@@ -82,6 +82,8 @@ Adjust model.py to experiment with different architectures.
 
 Configure logging, validation, or checkpointing in train.py.
 
+Developed by Md Mahfuzur Rahman Siam Software Tester & Programmer 📧 ksiam3409@gmail.com 🌐 https://siammahfuz.github.io/
+
 🤝 Contributing
 Pull requests and issues are welcome. Feel free to suggest features or improvements.
 
